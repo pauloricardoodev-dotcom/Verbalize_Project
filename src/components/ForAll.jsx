@@ -4,14 +4,14 @@ function ForAll() {
   return (
     <section className="py-5 mt-5 backgroundRGB">
       <div className="container">
-        <h2 className="text-center section-title">
-          Para todos!
-        </h2>
         <div className="row justify-content-center" id="handsComunication">
           <div className="col-6 d-flex align-items-center justify-content-center">
             <img src="/assets/ForAll.png" alt="For All" className="img-fluid" />
           </div>
           <div className="col-lg-6 text-center">
+            <h2 className="text-center section-title">
+            Para todos!
+            </h2>
             <p className="fs-5">
               O Verbalize foi desenvolvido com o propósito de tornar a comunicação entre pessoas verbais e não
               verbais

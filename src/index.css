@@ -151,7 +151,7 @@
 }
 
 .backgroundRGB {
-  background: url("../assets/bgSection.png") center/cover no-repeat;
+  background: url("../assets/bgSection.png") center/cover no-repeat !important;
   color: white;
 }
 
