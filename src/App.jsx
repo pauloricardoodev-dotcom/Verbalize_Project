@@ -6,6 +6,7 @@ import Hero from './components/Hero';
 import Problem from './components/Problem';
 import Solution from './components/Solution';
 import HowItWorks from './components/HowItWorks';
+import InteractiveDemo from './components/InteractiveDemo';
 import Benefits from './components/Benefits';
 import Differential from './components/Differential';
 import ForAll from './components/ForAll';
@@ -40,6 +41,7 @@ function App() {
       <Problem />
       <Solution />
       <HowItWorks />
+      <InteractiveDemo />
       <Benefits />
       <Differential />
       <ForAll />
