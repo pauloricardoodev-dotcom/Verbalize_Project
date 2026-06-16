@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Verbalize_Project/static/css/main.6d58823f.css",
-    "main.js": "/Verbalize_Project/static/js/main.a49add91.js",
+    "main.js": "/Verbalize_Project/static/js/main.79c14422.js",
     "static/media/hands.png": "/Verbalize_Project/static/media/hands.a96a5a7e115fafc2d254.png",
     "static/media/bgSection.png": "/Verbalize_Project/static/media/bgSection.f679cbfaa56ecd3b45f4.png",
     "index.html": "/Verbalize_Project/index.html",
     "main.6d58823f.css.map": "/Verbalize_Project/static/css/main.6d58823f.css.map",
-    "main.a49add91.js.map": "/Verbalize_Project/static/js/main.a49add91.js.map"
+    "main.79c14422.js.map": "/Verbalize_Project/static/js/main.79c14422.js.map"
   },
   "entrypoints": [
     "static/css/main.6d58823f.css",
-    "static/js/main.a49add91.js"
+    "static/js/main.79c14422.js"
   ]
 }
