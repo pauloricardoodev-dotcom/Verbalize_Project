@@ -8,6 +8,7 @@ function Footer() {
     "Vitor Luis",
     "Enzo Dias",
     "Kenzo Yamamoto",
+    "Felipe Giusti",
   ];
 
   return (
