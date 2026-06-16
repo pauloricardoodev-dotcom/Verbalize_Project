@@ -59,7 +59,7 @@ function Technologies() {
                 </h5>
 
                 <img
-                  src={`${process.env.PUBLIC_URL}/assets/icons/canva.png`}
+                  src={`${process.env.PUBLIC_URL}/assets/icons/Canva.png`}
                   alt="Canva"
                   className="img-fluid mt-3"
                   style={{

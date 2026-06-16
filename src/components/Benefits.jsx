@@ -11,7 +11,7 @@ function Benefits() {
           <div className="col-md-4">
             <div className="card h-100 shadow-sm">
               <div className="card-body text-center">
-                    <h4><img src={`${process.env.PUBLIC_URL}/assets/iconInclusion.png`} alt="inclusion" /> Inclusão</h4>
+                    <h4><img src={`${process.env.PUBLIC_URL}/assets/icons/iconInclusion.png`} alt="inclusion" /> Inclusão</h4>
                 <p>
                   Promove acessibilidade e autonomia para
                   pessoas com deficiência auditiva.
@@ -22,7 +22,7 @@ function Benefits() {
           <div className="col-md-4">
             <div className="card h-100 shadow-sm">
               <div className="card-body text-center">
-                <h4><img src={`${process.env.PUBLIC_URL}/assets/iconFlash.png`} alt="Fast" /> Tempo Real</h4>
+                <h4><img src={`${process.env.PUBLIC_URL}/assets/icons/iconFlash.png`} alt="Fast" /> Tempo Real</h4>
                 <p>
                   Tradução instantânea para tornar o diálogo
                   mais natural e eficiente.
@@ -33,7 +33,7 @@ function Benefits() {
           <div className="col-md-4">
             <div className="card h-100 shadow-sm">
               <div className="card-body text-center">
-                <h4><img src={`${process.env.PUBLIC_URL}/assets/iconsWorld.png`} alt="World" /> Impacto Social</h4>
+                <h4><img src={`${process.env.PUBLIC_URL}/assets/icons/iconsWorld.png`} alt="World" /> Impacto Social</h4>
                 <p>
                   Facilita atendimentos em hospitais,
                   escolas, empresas e órgãos públicos.
