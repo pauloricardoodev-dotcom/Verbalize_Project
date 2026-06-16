@@ -11,7 +11,7 @@ function HowItWorks() {
           <div className="col-md-6">
             <div className="card shadow-sm feature-card">
               <div className="card-body text-center">
-                <div className="icon"><img src="/assets/icons/iconLove.png" alt="Love" /></div>
+                <div className="icon"><img src={`${process.env.PUBLIC_URL}/assets/icons/iconLove.png`} alt="Love" /></div>
                 <h4 className="mt-3">
                   Libras → Voz
                 </h4>
@@ -26,7 +26,7 @@ function HowItWorks() {
           <div className="col-md-6">
             <div className="card shadow-sm feature-card">
               <div className="card-body text-center">
-                <div className="icon"><img src="/assets/icons/iconMicrofone.png" alt="microfone" /></div>
+                <div className="icon"><img src={`${process.env.PUBLIC_URL}/assets/icons/iconMicrofone.png`} alt="microfone" /></div>
                 <h4 className="mt-3">
                   Voz → Texto
                 </h4>

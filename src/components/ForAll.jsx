@@ -6,7 +6,7 @@ function ForAll() {
       <div className="container">
         <div className="row justify-content-center" id="handsComunication">
           <div className="col-6 d-flex align-items-center justify-content-center">
-            <img src="/assets/ForAll.png" alt="For All" className="img-fluid" />
+            <img src={`${process.env.PUBLIC_URL}/assets/ForAll.png`} alt="For All" className="img-fluid" />
           </div>
           <div className="col-lg-6 text-center">
             <h2 className="text-center section-title">

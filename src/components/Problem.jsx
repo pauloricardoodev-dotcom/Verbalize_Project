@@ -22,7 +22,7 @@ function Problem() {
             </p>
           </div>
           <div className="col-12 mt-4">
-            <img src="/assets/comunicaHands.png" alt="Libras comunicação" className="img-fluid" />
+            <img src={`${process.env.PUBLIC_URL}/assets/comunicaHands.png`} alt="Libras comunicação" className="img-fluid" />
           </div>
         </div>
       </div>

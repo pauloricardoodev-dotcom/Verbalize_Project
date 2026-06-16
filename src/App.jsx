@@ -33,7 +33,7 @@ function App() {
         onClick={() => setDarkMode(!darkMode)}
       >
         <img 
-          src={darkMode ? '/assets/icons/sol.png' : '/assets/icons/lua.png'} 
+          src={darkMode ? `${process.env.PUBLIC_URL}/assets/icons/sol.png` : `${process.env.PUBLIC_URL}/assets/icons/lua.png`} 
           alt={darkMode ? 'Modo claro' : 'Modo escuro'}
         />
       </button>

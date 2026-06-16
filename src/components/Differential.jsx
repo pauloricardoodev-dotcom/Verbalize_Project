@@ -22,7 +22,7 @@ function Differential() {
             </p>
           </div>
           <div className="col-lg-6 text-center">
-            <img src="/assets/otherVsUs-removebg.png" alt="Diferenciais" className="img-fluid" />
+            <img src={`${process.env.PUBLIC_URL}/assets/otherVsUs-removebg.png`} alt="Diferenciais" className="img-fluid" />
           </div>
         </div>
       </div>

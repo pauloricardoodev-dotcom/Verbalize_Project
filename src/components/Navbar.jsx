@@ -39,7 +39,7 @@ function Navbar() {
       <div className="container h-100 d-flex align-items-center">
         <a className="navbar-brand" href="#">
           <img
-            src="/assets/icons/LogoIcon.png"
+            src={`${process.env.PUBLIC_URL}/assets/icons/LogoIcon.png`}
             alt="Verbalize"
             width="50"
             height="50"

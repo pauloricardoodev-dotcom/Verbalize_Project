@@ -17,7 +17,7 @@ function Technologies() {
                 </h5>
 
                 <img
-                  src="/assets/icons/Bootstrap.png"
+                  src={`${process.env.PUBLIC_URL}/assets/icons/Bootstrap.png`}
                   alt="Bootstrap"
                   className="img-fluid mt-3"
                   style={{
@@ -38,7 +38,7 @@ function Technologies() {
                 </h5>
 
                 <img
-                  src="/assets/icons/React.png"
+                  src={`${process.env.PUBLIC_URL}/assets/icons/React.png`}
                   alt="React"
                   className="img-fluid mt-3"
                   style={{
@@ -59,7 +59,7 @@ function Technologies() {
                 </h5>
 
                 <img
-                  src="/assets/icons/canva.png"
+                  src={`${process.env.PUBLIC_URL}/assets/icons/canva.png`}
                   alt="Canva"
                   className="img-fluid mt-3"
                   style={{
