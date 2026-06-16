@@ -77,8 +77,12 @@ function Navbar() {
                 <li><a className="dropdown-item" href="https://github.com/EnzoDiasDev">Kenzo Yamamoto</a></li>
                 <li><a className="dropdown-item" href="https://github.com/vitorventania">Vitor Ventania</a></li>
                 <li><a className="dropdown-item" href="https://github.com/Vitorlescola">Vitor Luis</a></li>
+                <li><a className="dropdown-item" href="https://github.com/FelipeGiusti">Felipe Giusti</a></li>
               </ul>
             </li>
+
+            
+            
 
             <li className="nav-item dropdown">
               <button
